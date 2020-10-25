@@ -1,6 +1,6 @@
 # Hello, Folks ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <br>
 <hr>
-<h3> Hi,  I am Umang Tank. Python Devloper...💻</h3>
+<h3> Hi,  I am Umang Tank. Python Programmer...💻</h3>
 
 - 🎓 IT 2nd Year student at LDCE.
 -  I’m currently learning Django/AI/ML
@@ -16,8 +16,7 @@
 <hr>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=umangtank)
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umangtank)
 
 
 
