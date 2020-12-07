@@ -14,9 +14,10 @@ I am passionate about:
 
 
 <hr>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=umangtank&show_icons=true&locale=en&layout=compact" alt="umangtank">
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=umangtank)
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=umangtank&show_icons=true&locale=en&layout=compact" alt="umangtank" />
+
 
 
 
