@@ -1,7 +1,6 @@
 <h1 align="center"> Hello, Devs ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1> <br>
 <h3> Hi,  I am Umang Tank. Python Programmer...💻   ML/AI enthusiast</h3>
 
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=umangtank alt=umangtank/> </p>
 
 I am passionate about:
 - python
