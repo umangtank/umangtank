@@ -4,8 +4,7 @@
 
 I am passionate about:
 - python
-- web-Devlopment
-- ML/AI
+- Machine Learning
 
 <hr>
 
