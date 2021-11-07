@@ -1,5 +1,5 @@
 <h1 align="center"> Hello, Devs ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1> <br>
-<h3> Hi,  I am Umang Tank. Python Programmer...💻   Machine Learning enthusiast</h3>
+<h3> Hi,  I am Umang Tank. Python Programmer...💻 </h3>
 
 
 I am passionate about:
