@@ -3,9 +3,9 @@
 
 
 I am passionate about:
-- python
-- Machine Learning
 
+- Machine Learning
+- Deep Learning
 <hr>
 
 <h4>how to Reach ME🤔 </h4>
