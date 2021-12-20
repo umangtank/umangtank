@@ -1,5 +1,5 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-<h1 align="center">I'm Umang</h1>
+<h1 align="center">I'm <a href="https://umangtank.herokuapp.com">Umang Tank</a></h1>
 
 I am passionate about:
 
@@ -31,9 +31,6 @@ I am passionate about:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umangtank&label=Profile%20views&color=0e75b6&style=flat" alt="umangtank" /> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umangtank&" alt="umangtank" /></p>
-
-<!-- <h4>how to Reach ME🤔 </h4> -->
-<!-- <p><a href="https://www.twitter.com/UmangTank3"><img src="https://img.icons8.com/nolan/64/twitter-squared.png"/></a><a href="https://www.linkedin.com/in/umangtank"><img src="https://img.icons8.com/nolan/64/linkedin.png"/></a><a href="https://www.github.com/umangtank"><img src="https://img.icons8.com/nolan/64/github.png"/></a><a href="https://www.instagram.com/umang___tank"><img src="https://img.icons8.com/nolan/64/instagram-new.png"/></a> -->
 
 
 
