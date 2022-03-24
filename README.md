@@ -27,12 +27,9 @@ I am passionate about:
 [Instagram]: https://www.instagram.com/umang___tank
 
 
+<div align="left">
+   <img src="https://github-readme-streak-stats.herokuapp.com?user=umangtank&theme=monokai&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&ring=5BCDEC&hide_border=true&stroke=5BCDEC&fire=5BCDEC&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" align="center" />
+</div>
+
+
 ![Umang's Stats](https://github-readme-stats.vercel.app/api?username=umangtank&show_icons=true&hide_border=true&theme=buefy)
-
-<hr>
-
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=umangtank&label=Profile%20views&color=0e75b6&style=flat" alt="umangtank" /> </p> -->
-<h3 align="left">Activity Graph:</h3>
-<a href="https://github.com/debamitr1012/github-readme-activity-graph"><img alt="umang tank's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=umangtank&bg_color=FFFFFF&color=2732e9&line=2732e9&point=f73030&hide_border=true" /></a>
-
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umangtank&" alt="umangtank" /></p> -->
