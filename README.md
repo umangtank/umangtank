@@ -32,19 +32,6 @@ I am passionate about:
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=umangtank&label=Profile%20views&color=0e75b6&style=flat" alt="umangtank" /> </p> -->
 <h3 align="left">Activity Graph:</h3>
-<a href="https://github.com/debamitr1012/github-readme-activity-graph"><img alt="Debayudh Mitra's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=umangtank&bg_color=FFFFFF&color=2732e9&line=2732e9&point=f73030&hide_border=true" /></a>
+<a href="https://github.com/debamitr1012/github-readme-activity-graph"><img alt="umang tank's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=umangtank&bg_color=FFFFFF&color=2732e9&line=2732e9&point=f73030&hide_border=true" /></a>
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umangtank&" alt="umangtank" /></p> -->
-
-
-
-
-
-
-
-
-
-
-
-
-
