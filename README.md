@@ -7,6 +7,7 @@ I am passionate about:
 - Machine Learning
 - Deep Learning
 
+<img align="right" alt="Coder GIF" height=250 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
 <hr>
 
 #### Languages and Tools:
