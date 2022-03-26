@@ -1,5 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-<h1 align="center">I'm <a href="https://umangtank.herokuapp.com">Umang Tank</a></h1>
+<h1 align="center">I'm <a href="https://umangtank.herokuapp.com">Umang Tank</a></h1><p align = "center">A Data Science Enthusiast and Open Source developer</p>
+
 
 I am passionate about:
 
@@ -33,3 +34,4 @@ I am passionate about:
 
 
 ![Umang's Stats](https://github-readme-stats.vercel.app/api?username=umangtank&show_icons=true&hide_border=true&theme=buefy)
+<p><img align="center" width="100%" src="https://activity-graph.herokuapp.com/graph?username=umangtank&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="umangtank" /></p>
