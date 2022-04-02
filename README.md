@@ -25,7 +25,7 @@ I am passionate about:
 
 [linkedin]: https://www.linkedin.com/in/umangtank
 [twitter]: https://www.twitter.com/UmangTank3
-[Instagram]: https://www.instagram.com/umang___tank
+[Instagram]: https://www.instagram.com/umangtank.me
 
 
 <div align="left">
