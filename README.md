@@ -1,5 +1,4 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-<img align="right" alt="Coder GIF" height=250 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
 <h1 align="center">I'm <a href="https://umangtank.herokuapp.com">Umang Tank</a></h1><p align = "center">A Data Science Enthusiast and Open Source developer</p>
 
 
@@ -26,18 +25,11 @@ I am passionate about:
 
 
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhav720&show_icons=true&locale=en&theme=radical" alt="Vaibhav720" /></p><br> -->
-
-
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhav720&theme=radical" alt="vaibhav720&theme=radical" /></p> -->
-
-
 #### Connect with me- 
 
-[<img align="left" alt="Umang Tank | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[<img align="left" alt="Umang Tank | Twitter"  src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
-[<img align="left" alt="Umang Tank | Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][Instagram]
-<br>
+[<img align="left" alt="Umang Tank | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="Umang Tank | Twitter" width="30px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
+[<img align="left" alt="Umang Tank | Instagram" width="30px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][Instagram]<br>
 <hr>
 
 [linkedin]: https://www.linkedin.com/in/umangtank
