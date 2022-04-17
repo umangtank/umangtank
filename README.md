@@ -1,4 +1,5 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<img align="right" alt="Coder GIF" height=250 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
 <h1 align="center">I'm <a href="https://umangtank.herokuapp.com">Umang Tank</a></h1><p align = "center">A Data Science Enthusiast and Open Source developer</p>
 
 
@@ -8,7 +9,7 @@ I am passionate about:
 - Machine Learning
 - Deep Learning
 
-<!-- <img align="right" alt="Coder GIF" height=250 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" /> -->
+
 <hr>
 
 #### Languages and Tools:
@@ -42,6 +43,7 @@ I am passionate about:
 [linkedin]: https://www.linkedin.com/in/umangtank
 [twitter]: https://www.twitter.com/UmangTank3
 [Instagram]: https://www.instagram.com/umangtank.me
+
 
 
 <div align="left">
