@@ -42,10 +42,22 @@ I am passionate about:
 
 
 
-<div align="left">
-   <img src="https://github-readme-streak-stats.herokuapp.com?user=umangtank&theme=monokai&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&ring=5BCDEC&hide_border=true&stroke=5BCDEC&fire=5BCDEC&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" align="center" />
-</div>
+<h2 align="center">📢 My Statistics: </h2> 
 
-
-![Umang's Stats](https://github-readme-stats.vercel.app/api?username=umangtank&show_icons=true&hide_border=true&theme=buefy)
+<b>📊 Github Contribution Graph</b><br>
 <p><img align="center" width="100%" src="https://activity-graph.herokuapp.com/graph?username=umangtank&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="umangtank" /></p>
+<hr>
+<p> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=umangtank&show_icons=true&hide_border=true&theme=buefy">
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=umangtank&theme=github_dark"></p>
+
+
+
+<b>🏆 Github Trophies</b><br>
+<p> <img src="https://github-profile-trophy.vercel.app/?username=umangtank&row=2&column=3&theme=buefy&no-bg=true&margin-w=15&margin-h=15" alt="github-trophy"> </p>
+      
+
+   <hr>
+  <p align="center">
+      <b>Take a look at my Projects and lets work together.</b><br><br>
+     <img alt="Thank You!" title="Thank You" src="https://img.shields.io/badge/Thank-You-%23e84118"/>
+  </p>
