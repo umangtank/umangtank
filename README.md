@@ -11,8 +11,10 @@ I am passionate about:
 
 
 <hr>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=umangtank&label=Profile%20views&color=0e75b6&style=flat" alt="umangtank" /> </p>
 
 #### Languages and Tools:
+
 <p align="left"> 
    <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c" /> </a>    <a href="python" target="_blank"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python" /> </a>
     <a href="html" target="_blank"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html" /> </a>  
@@ -53,10 +55,6 @@ I am passionate about:
 <p> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=umangtank&show_icons=true&hide_border=true&theme=buefy">
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=umangtank&theme=github_dark"></p>
 
-
-
-<b>🏆 Github Trophies</b><br>
-<p> <img src="https://github-profile-trophy.vercel.app/?username=umangtank&row=2&column=3&theme=buefy&no-bg=true&margin-w=15&margin-h=15" alt="github-trophy"> </p>
       
 
    <hr>
