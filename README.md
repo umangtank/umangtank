@@ -1,13 +1,12 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-<h1 align="center">I'm <a href="https://umangtank.herokuapp.com">Umang Tank</a></h1><p align = "center">A Data Science Enthusiast and Open Source developer</p>
+<h1 align="center">I'm <a href="https://umangtank.herokuapp.com">Umang Tank</a></h1><p align = "center">A Data Science Enthusiast and Open Source Contributor</p>
 
 
-<p> Open Source Contributor at GSSOC'22</p>
+<!-- <p> Open Source Contributor at GSSOC'22</p> -->
 I am passionate about:
 
-- Data Science
 - Machine Learning
-- Deep Learning
+- Data Science
 
 
 <hr>
@@ -16,17 +15,18 @@ I am passionate about:
 #### Languages and Tools:
 
 <p align="left"> 
-   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c" /> </a>    <a href="python" target="_blank"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python" /> </a>
-    <a href="html" target="_blank"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html" /> </a>  
+   <a href="C" target="_blank"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/> </a>    
+   <a href="python" target="_blank"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python" /> </a>
+   <a href="html" target="_blank"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html" /> </a>  
    <a href="css" target="_blank"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css" /> </a> 
-   <a href="javascript" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" /> </a> 
-   <a href="Bootstrap" target="_blank"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> </a> 
-   <a href="flask" target="_blank"> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="flask" /> </a>      <a href="mongodb" target="_blank"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongoDB" /> </a> 
-   <a href="mysql" target="_blank"> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" /> </a> 
+   <a href="flask" target="_blank"> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="flask" /> </a>
+   <a href="mongodb" target="_blank"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongoDB" /> </a> 
+   <a href="mysql" target="_blank"> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" /> </a>
+   <a href="tensorflow" target="_blank"> <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="tensorflow"/></a>
+   <a href="torch" target="_blank"> <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="pytorch" /> </a>       
+   <a href="docker" target="_blank"> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/> </a>
+   <a href="kubernetes"><img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt = "kubernetes"></a>
    <a href="postman" target="_blank"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman" /> </a>  
-   <a href="Heroku" target="_blank"> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku" /> </a>
-    <a href="AWS" target="_blank"> <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" /> </a>
-
 </p>
 
 
