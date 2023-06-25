@@ -1,17 +1,16 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-<h1 align="center">I'm <a href="https://umangtank.herokuapp.com">Umang Tank</a></h1><p align = "center">A Data Science Enthusiast and Open Source Contributor</p>
+<h2>नमस्ते (Namaste), I'm<a href="https://umangtank.github.io/"> Umang Tank!</a> <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
-
-<!-- <p> Open Source Contributor at GSSOC'22</p> -->
-I am passionate about:
-
-- Machine Learning
-- Data Science
+<h3>I'm a Machine Learning Engineer with hands-on experience at Samyak Infotech Pvt Ltd.</h3>
+<!-- <h1 align="center">I'm <a href="https://umangtank.herokuapp.com">Umang Tank</a></h1><p align = "center">A Data Science Enthusiast and Open Source Contributor</p> -->
 
 
 <hr>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=umangtank&label=Profile%20views&color=0e75b6&style=flat" alt="umangtank" /> </p>
+<!-- <p> Open Source Contributor at GSSOC'22</p> -->
+I am passionate about:
 
+- Deep Learning
+- Artificial Intelligence for IT Operations 
+  
 #### Languages and Tools:
 
 <p align="left"> 
@@ -48,16 +47,18 @@ I am passionate about:
 <div align="left">
    <img src="https://github-readme-streak-stats.herokuapp.com?user=umangtank&theme=monokai&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&ring=5BCDEC&hide_border=true&stroke=5BCDEC&fire=5BCDEC&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" align="center" />
 </div>
-<b>📊 Github Contribution Graph</b><br>
-<p><img align="center" width="100%" src="https://activity-graph.herokuapp.com/graph?username=umangtank&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="umangtank" /></p>
-<hr>
+                                     
+![GitHub Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=umangtank&theme=github_dark)
 
-<p> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=umangtank&show_icons=true&hide_border=true&theme=buefy">
+
+<p> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=umangtank&show_icons=true&hide_border=true&theme=github_dark">
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=umangtank&theme=github_dark"></p>
 
-      
 
-   <hr>
+## Profile Visits
+
+<img src="https://profile-counter.glitch.me/umangtank/count.svg" alt="Profile Visits" />
+<hr>
   <p align="center">
       <b>Take a look at my Projects and lets work together.</b><br><br>
      <img alt="Thank You!" title="Thank You" src="https://img.shields.io/badge/Thank-You-%23e84118"/>
