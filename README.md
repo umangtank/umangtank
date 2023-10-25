@@ -4,13 +4,14 @@
 <h3>I'm a Machine Learning Engineer with hands-on experience at Samyak Infotech Pvt Ltd.</h3>
 <!-- <h1 align="center">I'm <a href="https://umangtank.herokuapp.com">Umang Tank</a></h1><p align = "center">A Data Science Enthusiast and Open Source Contributor</p> -->
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umangtank" alt="umangtank" /></a> </p>
 
 <hr>
 <!-- <p> Open Source Contributor at GSSOC'22</p> -->
-I am passionate about:
+<!-- I am passionate about: -->
 
-- Deep Learning
-- Artificial Intelligence for IT Operations 
+<!-- - Deep Learning -->
+<!-- - Artificial Intelligence for IT Operations -->
   
 ### My Tech-stack:
 <br>
